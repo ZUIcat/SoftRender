@@ -1,5 +1,7 @@
-import app.MyApplication;
-import log.ZLogger;
+package zuicat;
+
+import zuicat.app.MyApplication;
+import zuicat.log.ZLogger;
 
 class ZStart {
     public static void main(String[] args) {

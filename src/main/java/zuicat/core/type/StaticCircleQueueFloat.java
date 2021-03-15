@@ -1,6 +1,6 @@
-package core.type;
+package zuicat.core.type;
 
-import log.ZLogger;
+import zuicat.log.ZLogger;
 
 public class StaticCircleQueueFloat {
     private int length;

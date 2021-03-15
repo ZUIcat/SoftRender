@@ -14,7 +14,7 @@
             "type": "java",
             "name": "Launch ZStart",
             "request": "launch",
-            "mainClass": "ZStart",
+            "mainClass": "zuicat.ZStart",
             "projectName": "SoftRender"
         }
     ]

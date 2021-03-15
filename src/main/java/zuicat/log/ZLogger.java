@@ -1,4 +1,4 @@
-package log;
+package zuicat.log;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

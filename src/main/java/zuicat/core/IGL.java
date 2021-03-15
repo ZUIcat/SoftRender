@@ -1,8 +1,8 @@
-package core;
+package zuicat.core;
 
 import java.awt.image.BufferedImage;
 
-import core.type.ColorRGBA;
+import zuicat.core.type.ColorRGBA;
 
 public interface IGL {
     public void glEnable(int flag);

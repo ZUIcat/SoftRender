@@ -1,15 +1,15 @@
-package core;
+package zuicat.core;
 
 import java.awt.Canvas;
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Graphics;
 
-import log.ZLogger;
+import zuicat.log.ZLogger;
 
 import java.awt.image.BufferStrategy;
 
-import core.type.StaticCircleQueueFloat;
+import zuicat.core.type.StaticCircleQueueFloat;
 
 public class SurfaceView {
     private IRender render;

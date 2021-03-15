@@ -1,4 +1,7 @@
-bin/
+.settings/
+target/
+.classpath
+.project
 
 # Compiled class file
 *.class

@@ -1,4 +1,4 @@
-package core.type;
+package zuicat.core.type;
 
 public class ColorRGBA {
     public static final ColorRGBA WHITE = new ColorRGBA(0xFFFFFFFF);

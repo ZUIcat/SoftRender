@@ -1,11 +1,11 @@
-package app;
+package zuicat.app;
 
-import core.type.ColorRGBA;
-import core.GL10;
-import core.IGL;
-import core.IRender;
-import core.SurfaceView;
-import log.ZLogger;
+import zuicat.core.type.ColorRGBA;
+import zuicat.core.GL10;
+import zuicat.core.IGL;
+import zuicat.core.IRender;
+import zuicat.core.SurfaceView;
+import zuicat.log.ZLogger;
 
 public class MySurfaceView extends SurfaceView {
     private MyRender myRender;

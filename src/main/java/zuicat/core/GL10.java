@@ -1,10 +1,10 @@
-package core;
+package zuicat.core;
 
 import java.awt.image.BufferedImage;
 import java.awt.image.DataBufferByte;
 
-import core.type.ColorRGBA;
-import log.ZLogger;
+import zuicat.core.type.ColorRGBA;
+import zuicat.log.ZLogger;
 
 public class GL10 implements IGL {
     // public static final int GL_DEPTH_TEST = 0;

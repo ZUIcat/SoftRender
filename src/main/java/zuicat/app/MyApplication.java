@@ -1,4 +1,4 @@
-package app;
+package zuicat.app;
 
 import java.awt.Dimension;
 import java.awt.Toolkit;
@@ -7,8 +7,8 @@ import java.awt.event.WindowEvent;
 import javax.swing.JFrame;
 import javax.swing.WindowConstants;
 
-import core.SurfaceView;
-import log.ZLogger;
+import zuicat.core.SurfaceView;
+import zuicat.log.ZLogger;
 
 public class MyApplication extends WindowAdapter {
     private JFrame frame;
