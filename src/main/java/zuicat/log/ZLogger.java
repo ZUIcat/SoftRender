@@ -12,7 +12,7 @@ public class ZLogger {
 
     private int maxStackDepth;
 
-    public ZLogger() {
+    private ZLogger() {
         sTimeFormat = new SimpleDateFormat("hh:mm:ss.SSS");
         sDateTimeFormat = new SimpleDateFormat("yyyy/MM/dd hh:mm:ss.SSS");
 
